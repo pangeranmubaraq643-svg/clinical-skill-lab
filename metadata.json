@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Remix Remix Remix Clinical Case Simulator",
+  "description": "Aplikasi pelatihan diagnostik dan tatalaksana medis interaktif berbasis standar Kemenkes RI/PPK untuk mahasiswa kedokteran dan dokter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
